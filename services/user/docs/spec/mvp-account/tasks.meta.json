@@ -1,0 +1,231 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 创建 Go module 与精确锁定依赖": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056295
+      },
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361076186
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309613
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362319651
+      }
+    ],
+    "1.2 定义核的领域模型与错误集": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056341
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309645
+      }
+    ],
+    "1.3 定义核依赖的三个替换点接口与 Account 接口": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056368
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309720
+      }
+    ],
+    "2.1 实现内存 Repository": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056395
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309744
+      }
+    ],
+    "2.2 实现内存 Hasher 与假 Clock": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056422
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309767
+      }
+    ],
+    "3.1 实现 argon2id PasswordHasher": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056478
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309792
+      }
+    ],
+    "3.2 实现 EdDSA TokenSigner 与 Contract": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056537
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309863
+      }
+    ],
+    "4.1 实现 Register": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056568
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309889
+      }
+    ],
+    "5.1 实现 Login": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056606
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309910
+      }
+    ],
+    "6.1 实现 GetProfile / UpdateProfile / VerificationContract": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056633
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309934
+      }
+    ],
+    "7.1 Checkpoint - 核的 PBT 全绿": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056659
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309957
+      }
+    ],
+    "8.1 实现 PgAccountRepository": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056687
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362309980
+      }
+    ],
+    "9.1 实现 MCPServer 与 5 个 tool handler": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056715
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362310003
+      }
+    ],
+    "10.1 实现 Config 加载与 fail fast": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056743
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362310028
+      }
+    ],
+    "10.2 编写 accounts 表迁移": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056770
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362310054
+      }
+    ],
+    "11.1 静态依赖硬门（自动化）": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056800
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362310077
+      }
+    ],
+    "11.2 组装 main.go（唯一组装点）": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056832
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362310101
+      }
+    ],
+    "12.1 Checkpoint - go build + go test 全绿": [
+      {
+        "executionId": "47a04e5c-8b62-4c2b-8585-0f062d167903",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793361056865
+      },
+      {
+        "executionId": "fbaa39e2-3896-4d94-9a83-4d9769906e6d",
+        "chatSessionId": "sess_31da3f50-e547-4a93-b869-d7d8731753d5",
+        "timestamp": 1793362310125
+      }
+    ]
+  }
+}
